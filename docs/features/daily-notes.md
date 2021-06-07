@@ -26,7 +26,8 @@ You can also write:
 | `/+1y`       | in one year   |
 
 You get the idea ;)
-
+/[[2021-06-07]] 
+/[[2021-06-08]]
 ## Configuration
 
 It's possible to customize path and heading of your daily notes, by following the [dateformat masking syntax](https://github.com/felixge/node-dateformat#mask-options).
