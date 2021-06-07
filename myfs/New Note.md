@@ -12,7 +12,7 @@ Below you can see an example showing a todo list and a timestamp.
 ## Todo List
 
 1. First [[tabstop]]
-2. A second tabstop
+2. A second tabstop [[graph-visualization]]
 3. A third tabstop
 
 Note Created: 2021-06-07
